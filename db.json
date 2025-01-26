@@ -6,5 +6,77 @@
     "duration": "7 Nights / 7 Days",
     "price": 21000,
     "rating": 4
+  },
+  {
+    "id": 2,
+    "name": "Kerala",
+    "description": "Munnar, Alleppey, Thekkady, Cochin, Kovalam, Wayanad",
+    "duration": "6 Nights / 7 Days",
+    "price": 25000,
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "name": "Rajasthan",
+    "description": "Jaipur, Udaipur, Jaisalmer, Jodhpur, Mount Abu",
+    "duration": "8 Nights / 9 Days",
+    "price": 30000,
+    "rating": 4
+  },
+  {
+    "id": 4,
+    "name": "Goa",
+    "description": "North Goa, South Goa, Dudhsagar Falls, Panjim",
+    "duration": "4 Nights / 5 Days",
+    "price": 15000,
+    "rating": 4
+  },
+  {
+    "id": 5,
+    "name": "Leh Ladakh",
+    "description": "Leh, Pangong Lake, Nubra Valley, Magnetic Hill",
+    "duration": "7 Nights / 8 Days",
+    "price": 35000,
+    "rating": 5
+  },
+  {
+    "id": 6,
+    "name": "Andaman",
+    "description": "Port Blair, Havelock Island, Neil Island, Ross Island",
+    "duration": "5 Nights / 6 Days",
+    "price": 40000,
+    "rating": 4
+  },
+  {
+    "id": 7,
+    "name": "Himachal",
+    "description": "Shimla, Kullu, Manali, Dharamshala, Dalhousie",
+    "duration": "9 Nights / 10 Days",
+    "price": 28000,
+    "rating": 4
+  },
+  {
+    "id": 8,
+    "name": "Uttarakhand",
+    "description": "Nainital, Mussoorie, Rishikesh, Haridwar, Auli",
+    "duration": "6 Nights / 7 Days",
+    "price": 22000,
+    "rating": 4
+  },
+  {
+    "id": 9,
+    "name": "Kashmir",
+    "description": "Srinagar, Gulmarg, Pahalgam, Sonmarg, Dal Lake",
+    "duration": "5 Nights / 6 Days",
+    "price": 27000,
+    "rating": 5
+  },
+  {
+    "id": 10,
+    "name": "North East India",
+    "description": "Shillong, Guwahati, Cherrapunji, Kaziranga National Park",
+    "duration": "7 Nights / 8 Days",
+    "price": 32000,
+    "rating": 4
   }
 ]
